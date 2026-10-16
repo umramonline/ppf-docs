@@ -37,4 +37,6 @@ Repo AI girişleri: `../ppf-api/AGENTS.md`, `../ppf-admin-web/AGENTS.md` (+ kıs
 
 **İlgili org dokümanları:** `/Users/aras/codespace/umran/docs/platform-mimarisi.md`, `organization-directory-structure.md`
 
-**Son güncelleme:** 2026-10-15
+**Yayın (mirror):** [github.com/umramonline/ppf-docs](https://github.com/umramonline/ppf-docs) — bkz. [PUBLISH.md](./PUBLISH.md)
+
+**Son güncelleme:** 2026-10-16
