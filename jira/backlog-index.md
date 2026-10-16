@@ -2,7 +2,7 @@
 
 Tek kaynak: [umranoto.atlassian.net/browse/PPF](https://umranoto.atlassian.net/browse/PPF)
 
-Dokümantasyon mirror: [umranonline/ppf-docs](https://github.com/umranonline/ppf-docs)
+Dokümantasyon mirror: [umramonline/ppf-docs](https://github.com/umramonline/ppf-docs)
 
 ---
 

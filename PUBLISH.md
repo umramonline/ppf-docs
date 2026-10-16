@@ -4,7 +4,7 @@ Yerel `docs/` klasörü ürün kaynağıdır.
 
 ## GitHub (canonical mirror)
 
-**Repo:** [github.com/umranonline/ppf-docs](https://github.com/umranonline/ppf-docs)
+**Repo:** [github.com/umramonline/ppf-docs](https://github.com/umramonline/ppf-docs)
 
 ```bash
 rsync -a --exclude '.DS_Store' docs/ ../ppf-docs-publish/
